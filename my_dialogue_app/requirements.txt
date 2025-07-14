@@ -1,0 +1,8 @@
+fastapi==0.116.1
+itsdangerous==2.2.0
+uvicorn==0.35.0
+Jinja2==3.1.6
+python-multipart==0.0.6
+gptcache==0.1.44
+openai==0.28.1
+faiss-cpu==1.11.0
